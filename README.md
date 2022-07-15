@@ -1,2 +1,2 @@
 # ShadowClient
-- way for me to store capes
+- way for me to store sus capes
